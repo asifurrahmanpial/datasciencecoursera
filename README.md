@@ -1,2 +1,2 @@
 # datasciencecoursera
-This repository is an assignment of JHU Data Scientists Toolbox Course
+This repository is part of an assignment of the JHU Data Scientists Toolbox Course.
